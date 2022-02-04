@@ -1,4 +1,4 @@
-<p align = "center"> <img src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1" alt="dev-gif" /> </p>
+<!-- <p align = "center"> <img src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1" alt="dev-gif" /> </p> -->
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Pradhan</h1>
 <h3 align="center">Frontend developer from India</h3>
 
