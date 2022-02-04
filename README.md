@@ -1,4 +1,4 @@
-<img src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1" alt="dev-gif" />
+<img align="center" src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1" alt="dev-gif" />
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Pradhan</h1>
 <h3 align="center">Frontend developer from India</h3>
 
