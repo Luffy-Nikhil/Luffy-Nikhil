@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/9708020/developer2_ai_open_file_dribbble-01_4x.png" alt="dev-gif" />
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Pradhan</h1>
 <h3 align="center">Frontend developer from India</h3>
 
