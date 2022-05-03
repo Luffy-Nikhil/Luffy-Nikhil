@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luffy-nikhil&label=Profile%20views&color=0a98f0&style=plastic" alt="luffy-nikhil" /> </p>
 
-- 🔭 I’m currently working on [Resume Builder Web App](https://github.com/Luffy-Nikhil/resume-builder-web-app)
+- 🔭 I’m currently working on [Star-Resume](https://github.com/Luffy-Nikhil/Star-Resume)
 
 - 🌱 I’m currently learning **Web Development**
 
