@@ -1,12 +1,12 @@
 <!-- <p align = "center"> <img src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1" alt="dev-gif" /> </p> -->
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Pradhan</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">Associate SRE from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luffy-nikhil&label=Profile%20views&color=0a98f0&style=plastic" alt="luffy-nikhil" /> </p>
 
-- 🔭 I’m currently working on [Star-Resume](https://github.com/Luffy-Nikhil/Star-Resume)
+- 🔭 I’m currently working on terraform-hands-on project
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **AWS, terraform, boto3**
 
 - 📫 How to reach me **nikhilpradhan636@gmail.com**
 
